@@ -56,9 +56,5 @@ Interested in diving deeper into the code behind these projects? I'm happy to sh
 
 ## Contact Me
 
-Have questions or interested in collaborating on a project? Feel free to contact me:
-
 - Email: [jingliu597@gmail.com](mailto:jingliu597@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jingliu6601)
 
-I look forward to connecting with you!
