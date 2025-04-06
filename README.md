@@ -47,10 +47,7 @@ Interested in diving deeper into the code behind these projects? I'm happy to sh
 - **Project 10**: FilmFlow - FilmFlow is an iOS movie-browsing app that is similar to Flixster, added the ability to fetch real data from a third-party server.
 - <img src="https://github.com/markov42/Portfolio/assets/60806325/7a85afa8-c0db-42c8-8230-6022e0ddeda4" width="800">
 
-- **Project 11**: GT Dining Rating - This is an iOS app for Georgia Tech Dining Rating.
-- <img src="https://github.com/markov42/Portfolio/assets/60806325/8024adad-274e-4381-a519-032b66eabb8b" width="800">
-
-- **Project 12**: My Story - My Story is an app that introduces the character in The Legend of Zelda: Breath of the Wild --- Link.
+- **Project 11**: My Story - My Story is an app that introduces the character in The Legend of Zelda: Breath of the Wild --- Link.
 - <img src="https://github.com/markov42/Portfolio/assets/60806325/2c257d78-6f13-4090-9907-c24c66988a6c" width="800">
 
 
