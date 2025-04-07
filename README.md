@@ -53,5 +53,5 @@ Interested in diving deeper into the code behind these projects? I'm happy to sh
 
 ## Contact Me
 
-- Email: [jingliu597@gmail.com](mailto:jingliu597@gmail.com)
+- Email: [ljing2034@gmail.com](mailto:ljing2034@gmail.com)
 
