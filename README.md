@@ -12,7 +12,7 @@ By watching these videos, you'll get a comprehensive overview of each project, i
 
 ## How to Access the Code
 
-Interested in diving deeper into the code behind these projects? I'm happy to share the code with potential employers and collaborators. Please reach out to me via email at [jingliu597@gmail.com](mailto:jingliu597@gmail.com) to request access to my private repository containing the code.
+Interested in diving deeper into the code behind these projects? I'm happy to share the code with potential employers and collaborators. Please reach out to me via email at [ljing2034@gmail.com](mailto:ljing2034@gmail.com) to request access to my private repository containing the code.
 
 ## Projects
 - **Project 1**: CastNetGraph - This project demonstrates a force-directed graph visualization with various user interface elements and interactive features. Users can search for TV Shows or Cast members, and detailed information is displayed in a responsive detail info card. The graph dynamically arranges nodes and links to provide a clear and understandable layout.
