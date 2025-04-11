@@ -1,7 +1,4 @@
 # Portfolio
-Welcome to my Portfolio repository! Here, you'll find a collection of visually stunning projects showcasing my skills and expertise in Data Visualization, Computer Graphics, and iOS Development.
-
-## About
 This repository serves as a showcase of my work in the fields of data visualization, computer graphics, and iOS development. Each project demonstrates a unique aspect of my knowledge and proficiency, ranging from 2D and 3D rendering techniques to shader programming, visual effects, insightful data representations, and iOS application development.
 
 ## How to Access the Code
