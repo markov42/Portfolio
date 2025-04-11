@@ -4,15 +4,8 @@ Welcome to my Portfolio repository! Here, you'll find a collection of visually s
 ## About
 This repository serves as a showcase of my work in the fields of data visualization, computer graphics, and iOS development. Each project demonstrates a unique aspect of my knowledge and proficiency, ranging from 2D and 3D rendering techniques to shader programming, visual effects, insightful data representations, and iOS application development.
 
-## Why Watch the Videos?
-
-Instead of providing the code directly in this repository, I've chosen to showcase videos and screenshots of my projects. This decision was made to protect the integrity of my work and minimize the risk of plagiarism.
-
-By watching these videos, you'll get a comprehensive overview of each project, including its visual aspects, functionalities, and the creative solutions implemented. Feel free to explore the demos and screenshots provided to get a closer look at the results achieved.
-
 ## How to Access the Code
-
-Interested in diving deeper into the code behind these projects? I'm happy to share the code with potential employers and collaborators. Please reach out to me via email at [ljing2034@gmail.com](mailto:ljing2034@gmail.com) to request access to my private repository containing the code.
+- Contact Me: [ljing2034@gmail.com](mailto:ljing2034@gmail.com)
 
 ## Projects
 - **Project 1**: CastNetGraph - This project demonstrates a force-directed graph visualization with various user interface elements and interactive features. Users can search for TV Shows or Cast members, and detailed information is displayed in a responsive detail info card. The graph dynamically arranges nodes and links to provide a clear and understandable layout.
@@ -50,8 +43,4 @@ Interested in diving deeper into the code behind these projects? I'm happy to sh
 - **Project 11**: My Story - My Story is an app that introduces the character in The Legend of Zelda: Breath of the Wild --- Link.
 - <img src="https://github.com/markov42/Portfolio/assets/60806325/2c257d78-6f13-4090-9907-c24c66988a6c" width="800">
 
-
-## Contact Me
-
-- Email: [ljing2034@gmail.com](mailto:ljing2034@gmail.com)
 
